@@ -1,0 +1,32 @@
+
+
+
+ .navholder{
+    display: flex;
+    flex-direction: row;
+    background: white;
+    color: black;
+    width: 100%;
+    justify-content:space-between;
+    align-items:flex-end;
+    border-bottom: black 2rem;
+ }
+
+ div {
+    overflow-x: hidden; 
+    
+}
+
+.name_logo{
+
+    padding-right: 50px;
+
+
+}
+   
+ .link_holder{
+    display:flex;
+    justify-content:space-evenly;
+    padding-bottom: 2rem;
+    background-color: yellow;
+ }
